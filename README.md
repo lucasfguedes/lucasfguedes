@@ -3,16 +3,17 @@
     <h4>Quem eu sou ?</h4>
 </div>
 <p>
-    - Olá, Sou Lucas Guedes.
+- Olá, Sou Lucas Guedes.
 
-    Estudante de Ciência da Computação - UNOESTE.
+<h4>
+Estudante de Ciência da Computação - UNOESTE.
 
-    Sou apaixonado por tecnologia desde a infância e atualmente estou cursando Bacharelado em Ciência da Computação (BCC). Dentro da universidade, aprimoro minhas habilidades técnicas, enquanto busco, por conta própria, explorar novas áreas e tendências para me manter sempre atualizado no campo da tecnologia, especialmente em Cybersecurity.
+Sou apaixonado por tecnologia desde a infância e atualmente estou cursando Bacharelado em Ciência da Computação (BCC). Dentro da universidade, aprimoro minhas habilidades técnicas, enquanto busco, por conta própria, explorar novas áreas e tendências para me manter sempre atualizado no campo da tecnologia, especialmente em Cybersecurity.
 
-    Além disso, sou autodidata em idiomas, com nível intermediário de inglês (B2), e estou constantemente aprimorando minhas habilidades linguísticas.
+Além disso, sou autodidata em idiomas, com nível intermediário de inglês (B2), e estou constantemente aprimorando minhas habilidades linguísticas.
 
-    No passado, fui atleta de atletismo, o que me ensinou disciplina e resiliência, qualidades que aplico em todos os desafios da minha vida profissional. Atualmente, trabalho como atendente na franquia Uni Açaí, onde desenvolvo habilidades de atendimento ao cliente e gestão de tempo.
-</p>
+No passado, fui atleta de atletismo, o que me ensinou disciplina e resiliência, qualidades que aplico em todos os desafios da minha vida profissional. Atualmente, trabalho como atendente na franquia Uni Açaí, onde desenvolvo habilidades de atendimento ao cliente e gestão de tempo.
+</h4>
 <br>
 
 ![Lucas Guedes's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfguedes&show_icons=true&theme=transparent)
