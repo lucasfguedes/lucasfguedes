@@ -6,13 +6,16 @@
 - Olá, Sou Lucas Guedes.
 
 <h4>
-Estudante de Ciência da Computação - UNOESTE.
+<p>
+Estudante de Ciência da Computação - UNOESTE. 
 
 Sou apaixonado por tecnologia desde a infância e atualmente estou cursando Bacharelado em Ciência da Computação (BCC). Dentro da universidade, aprimoro minhas habilidades técnicas, enquanto busco, por conta própria, explorar novas áreas e tendências para me manter sempre atualizado no campo da tecnologia, especialmente em Cybersecurity.
 
 Além disso, sou autodidata em idiomas, com nível intermediário de inglês (B2), e estou constantemente aprimorando minhas habilidades linguísticas.
 
-No passado, fui atleta de atletismo, o que me ensinou disciplina e resiliência, qualidades que aplico em todos os desafios da minha vida profissional. Atualmente, trabalho como atendente na franquia Uni Açaí, onde desenvolvo habilidades de atendimento ao cliente e gestão de tempo.
+No passado, fui atleta de atletismo, o que me ensinou disciplina e resiliência, qualidades que aplico em todos os desafios da minha vida profissional. Atualmente, trabalho como atendente na franquia Uni Açaí, onde desenvolvo 
+habilidades de atendimento ao cliente e gestão de tempo.
+</p>
 </h4>
 <br>
 
