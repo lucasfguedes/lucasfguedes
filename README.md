@@ -47,5 +47,5 @@ habilidades de atendimento ao cliente e gestão de tempo.
 [![windows-10/11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 <br><br>
 <div style="text-align: center;">
-    <h6>atualizado em: 2024.</h6>
+    <h6>atualizado em: 2025.</h6>
 </div>
