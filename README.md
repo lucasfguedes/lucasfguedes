@@ -47,7 +47,7 @@ Passionate about technology since childhood, I seek to understand in depth how s
 
 ---
 
-### 💻 Sistemas Operacionais
+### 💻 Operating Systems
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
@@ -55,5 +55,5 @@ Passionate about technology since childhood, I seek to understand in depth how s
 ---
 
 <div align="center">
-  <h6>📅 Atualizado em: 2025</h6>
+  <h6>📅 Updated: 2025</h6>
 </div>
