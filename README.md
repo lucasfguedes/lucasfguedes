@@ -20,9 +20,6 @@ Apaixonado por tecnologia desde a infância, busco compreender a fundo como os s
 🌐 **Idiomas**  
 - Inglês **Intermediário (B2)** — em constante aprimoramento técnico e comunicativo  
 
-🏃‍♂️ **Outras experiências**  
-Ex-atleta de atletismo, trago comigo disciplina e resiliência. Atualmente, trabalho na **franquia Uni Açaí**, desenvolvendo habilidades de **atendimento ao cliente**, **organização** e **gestão de tempo**.
-
 ---
 
 ### 📊 Estatísticas do GitHub
